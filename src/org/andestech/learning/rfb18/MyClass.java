@@ -70,7 +70,7 @@ public class MyClass {
 
     // string
 
-       String s1 = "data string";
+       String s1 = "data string 2";
        s1 += " \"AAA\"";
 
         System.out.println(s1);
